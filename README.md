@@ -18,3 +18,11 @@ Front Camera | 25 MP, f/2.0, (wide), 1/3.1", 0.9µm
 
 ![Device Picture](https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-plus.jpg)
 
+## How to compile
+
+```sh
+. build/envsetup.sh
+export LC_ALL=C
+lunch twrp_burton-eng
+make -j4 recoveryimage
+```
