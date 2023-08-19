@@ -1,3 +1,0 @@
-add_lunch_combo twrp_burton-user
-add_lunch_combo twrp_burton-userdebug
-add_lunch_combo twrp_burton-eng
